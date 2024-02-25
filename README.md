@@ -1,2 +1,2 @@
 ### Приветствую 👋 Меня зовут Алексей! Я backend-разработчик, владующий PHP & Golang.
-![devider](https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp){width=10000}
+![divider](https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp){width=100% height=10px}
