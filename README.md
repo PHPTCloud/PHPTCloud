@@ -1,4 +1,4 @@
-<h2>Приветствую 👋 Меня зовут Алексей! Я backend-разработчик, владующий PHP & Golang.</h2>
+<h2>Приветствую 👋 Меня зовут Алексей! Я backend-разработчик PHP & Golang.</h2>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
