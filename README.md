@@ -10,4 +10,4 @@
 
 ### Вы также можете связаться со мной через:
 
-<img width="50px" loading="lazy" src="./assets/telegram.svg" />
+<a href="https://t.me/otcloud"><img width="50px" loading="lazy" src="./assets/telegram.svg" /></a>
