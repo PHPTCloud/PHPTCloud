@@ -14,16 +14,4 @@
 
 ### Языки программирования и Основной инструментарий:
 
-<img width="50px" loading="lazy" src="./assets/ubuntu.png" />
-<img width="50px" loading="lazy" src="./assets/docker.png" />
-<img width="50px" loading="lazy" src="./assets/php.png" />
-<img width="50px" loading="lazy" src="./assets/golang.png" />
-<img width="50px" loading="lazy" src="./assets/intellij_phpstorm.png" />
-<img width="50px" loading="lazy" src="./assets/intellij_alt.png" />
-<img width="50px" loading="lazy" src="./assets/file_type_vscode.png" />
-<img width="50px" loading="lazy" src="./assets/dbeaver.png" />
-<img width="50px" loading="lazy" src="./assets/file_type_git.png" />
-<img width="50px" loading="lazy" src="./assets/postgresql.png" />
-<img width="50px" loading="lazy" src="./assets/mysqlworkbench.png" />
-<img width="50px" loading="lazy" src="./assets/redis.png" />
-<img width="50px" loading="lazy" src="./assets/google_cloud.png" />
+<img width="50px" loading="lazy" src="./assets/ubuntu.png" /> <img width="50px" loading="lazy" src="./assets/docker.png" /> <img width="50px" loading="lazy" src="./assets/php.png" /> <img width="50px" loading="lazy" src="./assets/golang.png" /> <img width="50px" loading="lazy" src="./assets/intellij_phpstorm.png" /> <img width="50px" loading="lazy" src="./assets/intellij_alt.png" /> <img width="50px" loading="lazy" src="./assets/file_type_vscode.png" /> <img width="50px" loading="lazy" src="./assets/dbeaver.png" /> <img width="50px" loading="lazy" src="./assets/file_type_git.png" /> <img width="50px" loading="lazy" src="./assets/postgresql.png" /> <img width="50px" loading="lazy" src="./assets/mysqlworkbench.png" /> <img width="50px" loading="lazy" src="./assets/redis.png" /> <img width="50px" loading="lazy" src="./assets/google_cloud.png" />
